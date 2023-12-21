@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm Michael Gillund!
 
-<!--
-**michaelgillund/michaelgillund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Software Developer
 
-Here are some ideas to get you started:
+**About Me:**
+- 📍 Based in Chicago, IL
+- 🎓 Graduated from DePaul University with a BS in Computer Science (June 2023)
+- 💡 Passionate about creating impactful software solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills:**
+- 💻 Languages: Java, Python, Swift, JavaScript, HTML, CSS
+- 🛠 Frameworks: UIKit, SwiftUI, React, NextJS, TailwindCSS, Spring Boot
+- ☁️ Cloud Platforms: AWS, Firebase
+- 🧰 Tools: Xcode, VSCode, IntelliJ, Maven, Git/GitHub, Framer, Figma
+
+**Key Projects:**
+1. **Daily** - A real-time sports app for iOS featuring live scores, stats, and news (Swift, UIKit).
+2. **Senior Capstone Project** - A fitness tracking website with user profiles and goal management (Java, Spring Boot, HTML, CSS, Bootstrap).
+
+**Experience:**
+- iOS Developer Intern at Osiris Technologies, Chicago, IL (Summer 2022)
+
+**Get in Touch:**
+- 📧 Email: [michaelgillund@gmail.com](mailto:michaelgillund@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/michaelgillund](https://linkedin.com/in/michaelgillund)
