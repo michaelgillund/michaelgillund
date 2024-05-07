@@ -14,7 +14,7 @@
 - 🧰 Tools: Xcode, VSCode, IntelliJ, Maven, Git/GitHub, Framer, Figma
 
 **Key Projects:**
-1. **Daily** - A real-time sports app for iOS featuring live scores, stats, and news (Swift, UIKit).
+1. **Daily** - A real-time sports app for iOS featuring live scores, stats, and news (Swift, UIKit, SwiftUI).
 2. **Senior Capstone Project** - A fitness tracking website with user profiles and goal management (Java, Spring Boot, HTML, CSS, Bootstrap).
 
 **Get in Touch:**
