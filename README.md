@@ -17,9 +17,6 @@
 1. **Daily** - A real-time sports app for iOS featuring live scores, stats, and news (Swift, UIKit).
 2. **Senior Capstone Project** - A fitness tracking website with user profiles and goal management (Java, Spring Boot, HTML, CSS, Bootstrap).
 
-**Experience:**
-- iOS Developer Intern at Osiris Technologies, Chicago, IL (Summer 2022)
-
 **Get in Touch:**
 - 📧 Email: [michaelgillund@gmail.com](mailto:michaelgillund@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/michaelgillund](https://linkedin.com/in/michaelgillund)
